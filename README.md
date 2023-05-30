@@ -1,10 +1,12 @@
 ![Photo by Yoksel 🌿 Zok on Unsplash](https://user-images.githubusercontent.com/2342458/202706130-d6d2995a-9171-4619-ab15-abc93603fa86.png)
 
-# Kinsta - Hello World - PHP
-An example of how to set your PHP application up to enable deployment on Kinsta App Hosting services.
+# EATSv5 - Hello World - PHP
+A first case example of how to set up a PHP application for deployment on Kinsta App Hosting services
 
 ---
-Kinsta is a developer-centric cloud host / PaaS. We’re striving to make it easier for you to share your web projects with your users. Focus on coding and building, and we’ll take care of deployment and provide fast, scalable hosting. + 24/7 expert-only support.
+Kinsta has created a developer-centric cloud host / PaaS, a Platform as a Service. They are striving to make it easier for developers to build and implement web projects. The intention is for developers to be able to focus on coding and building the application functionality, and for Kinsta to take care of deployment and provide fast, scalable hosting. + 24/7 expert-only support.
+
+This is a scheme which has been a long time coming. Previously the application developer, or an infrastructure support team, needed to be detail concerned about not only the application functionality, but also the infrastructure platform, and the interface of the application to the infrastructure platform, in a myriad of detail ways, before an application could be delivered and made available to users. PaaS represents a near full cycle return to the glass house environment of the 1970s with a clean separation of responsibility and concern over technology details between application development and the operational demands of system implementation on a specified hardware platform.
 
 - [Start your free trial](https://kinsta.com/signup/?product_type=app-db)
 - [Application Hosting](https://kinsta.com/application-hosting)

@@ -17,4 +17,9 @@
 			<li><a href="\phpGedView\">PHP GED View</a></li>
 			<li>Related materials</li>
 		</ul></p>
+	<p>Related Sites
+		<ul>
+		<li><a href="https://architectedfutures.info">Architected Futures Blog</a></li>
+		</ul>
+	</p>	
 	</body></html>

@@ -11,15 +11,26 @@
 		 so we can provide a single configuration to support both PHP and Java,
 		 (WordPress and Eclipse) as a single physical configured web admin object.
 		</p>
-	<p>Facilities
+	<h2>Facilities</h2>
 		<ul>
 			<li><a href="\eats\src\EATSv5.pdf">Redirected Kinsta base code</a></li>
 			<li><a href="\phpGedView\">PHP GED View</a></li>
 			<li>Related materials</li>
-		</ul></p>
-	<p>Related Sites
-		<ul>
-		<li><a href="https://architectedfutures.info">Architected Futures Blog</a></li>
 		</ul>
-	</p>	
+	<h2>Related Sites</h2>
+		<ul>
+		<li><a href="https://sites.google.com/d/0BzkgAr42hG9nTGJLUTc5RGNXLWM/p/0BzkgAr42hG9nZ0FCMlBsZmE1Q1E">Architected Futures Portal</a></li>
+		<li><a href="https://architectedfutures.info">Architected Futures WordPress</a></li>
+		<li><a href="http://architectedfutures.net">Architected Futures Network - Drupal</a></li>
+		<li><a href="https://architectedfutures.net">Architected Futures Network - WP</a></li>
+		<li><a href="https://sites.google.com/view/architectedfutures">Architected Futures Google Main</a></li>
+		<li><a href="https://classroom.google.com/u/0/c/Njk4Njc2MTQwNVpa">Architected Futures Google Classroom</a></li>
+		<li><a href="https://architectedfutures.com">Architected Futures Network - COM</a></li>
+		<li><a href="https://architectedfutures.org">Architected Futures Network - ORG</a></li>
+		<li><a href="https://architectedfutures.us">Architected Futures WordPress - US</a></li>
+		<li><a href="https://architectedfutures.biz">Architected Futures Network - BIZ</a></li>
+		<li><a href="https://architectedfutures.exchange">Architected Futures WordPress - EXCHANGE</a></li>
+		<li><a href="https://148avenida.guru">148 Neighborhood</a></li>
+		<li><a href="https://jvs.guru/">JVS</a></li>
+		</ul>
 	</body></html>
